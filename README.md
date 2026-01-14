@@ -7,14 +7,10 @@ This repository contains the on-chain SQL queries used to generate the insights 
 
 ## Repository Structure
 
-├── network_growth/
-│ └── growth.sql
-│
-├── network_revenue/
-│ └── revenue.sql
-│
-├── network_adoption/
-│ ├── retention.sql
-│ └── other_chains.sql
-└── README.md
+├── network_growth/  
+  └── growth.sql   
+├── network_revenue/   
+  └── revenue.sql  
+├── network_adoption/    
+├── README.md
 
